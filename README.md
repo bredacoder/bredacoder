@@ -1,5 +1,4 @@
 <h2 align="center">Daniel Felipe<h2/>
-
 ## Hi there 👋
 I love programming, and creating solutions that positively influence other people's lives!
 <br/> I love to learn and share knowledge!
