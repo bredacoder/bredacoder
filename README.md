@@ -1,4 +1,4 @@
-<h2 align="center">Daniel Felipe<h2/>
+<h1 align="center"> :man_technologist: Daniel Felipe 🚀</h1>
  
 ## Hi there 👋
 I love programming, and creating solutions that positively influence other people's lives!
