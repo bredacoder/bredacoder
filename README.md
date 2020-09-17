@@ -1,16 +1,16 @@
 <h1 align="center"> :man_technologist: Daniel Felipe 🚀</h1>
  
 ## Hi there 👋
-I love programming, and creating solutions that positively influence other people's lives!
-<br/> I love to learn and share knowledge!
-<br/> I'm a FullStack Developer :computer:
+Eu amo programar e criar soluções que influenciam positivamente a vida de outras pessoas!
+<br/> Eu amo aprender e compartilhar conhecimento!
+<br/> Sou um Desenvolvedor FullStack :computer:
 
  :rocket:  &nbsp; **Rocketseat Student**
- <br/> :purple_heart: &nbsp; Seeking to evolve constantly focused on Javascript
- <br/> :star: &nbsp; Studying UX / UI, I have skills with CSS Grid Layout and Flexbox
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native, Javascript & Typescript
- <br/> 💬  &nbsp; About me: I am communicative, self-taught, patient and resilient; 
- <br/> :sunglasses: &nbsp; Hobbies / Passions : I am passionate about music, skateboarding, making beats, reading books & playing games
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanielFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfelipedeveloper/)](https://www.linkedin.com/in/danielfelipedeveloper/) 
+ <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em Javascript
+ <br/> :star: &nbsp; Estudando UX / UI, tenho habilidades com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Javascript & Typescript
+ <br/> 💬  &nbsp; About me: Sou comunicativo, autodidata, paciente e resiliente; 
+ <br/> :sunglasses: &nbsp; Hobbies / Paixões : Sou apaixonado por música, skate, produção músical, filosofia, leituras e games.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DanielFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfelipedeveloper/)](https://www.linkedin.com/in/danielfelipedeveloper/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielfelipedeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfelipedeveloper@gmail.com)](mailto:danielfelipedeveloper@gmail.com)
