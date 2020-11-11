@@ -1,7 +1,8 @@
 <h1 align="center"> :man_technologist: Daniel Felipe 🚀</h1>
  
 ## Olá 👋
-Eu amo programar e criar soluções que influenciam positivamente a vida de outras pessoas!
+Eu amo programar, resolver problemas e criar soluções eficazes e criativas que influenciam positivamente a vida de outras pessoas!
+
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> Sou um Desenvolvedor FullStack :computer:
 
