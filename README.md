@@ -5,7 +5,7 @@ Eu amo programar, resolver problemas e criar soluções eficazes e criativas que
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> Sou um Desenvolvedor FullStack :computer:
 
- :rocket:  &nbsp; **Rocketseat Student**
+ :rocket:  &nbsp; **Software Engineer na LinkApi Solutions**
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em Javascript
  <br/> :star: &nbsp; Estudando UX / UI, tenho habilidades com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Javascript & Typescript
