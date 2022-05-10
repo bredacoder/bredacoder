@@ -1,6 +1,6 @@
 <h1 align="center"> :man_technologist: Daniel Felipe 🚀</h1>
  
-## Olá 👋
+## Hello 👋
 I love programming, solve problems and create effective and creative solutions that positively influence the lives of others!
 <br/> I love to learn and share knowledge!
 <br/> Software Engineer :computer:
