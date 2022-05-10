@@ -1,17 +1,16 @@
 <h1 align="center"> :man_technologist: Daniel Felipe 🚀</h1>
  
 ## Olá 👋
-Eu amo programar, resolver problemas e criar soluções eficazes e criativas que influenciam positivamente a vida de outras pessoas!
-<br/> Eu amo aprender e compartilhar conhecimento!
+I love programming, solve problems and create effective and creative solutions that positively influence the lives of others!
+<br/> I love to learn and share knowledge!
 <br/> Software Engineer :computer:
 
- :rocket:  &nbsp; **Software Engineer na LinkApi Solutions**
- <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em Javascript
- <br/> :star: &nbsp; Estudando UX / UI, tenho habilidades com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Javascript & Typescript
- <br/> 💬  &nbsp; Sobre mim: Sou comunicativo, autodidata, paciente e resiliente; 
- <br/> :sunglasses: &nbsp; Hobbies / Paixões : Sou apaixonado por música, skate, produção músical, filosofia, leituras e games.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DanielFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfelipedeveloper/)](https://www.linkedin.com/in/danielfelipedeveloper/) 
+ :rocket:  &nbsp; **Software Engineer at Semantix**
+ <br/> :purple_heart: &nbsp; I seek to constantly evolve! Javascript Focused.
+ <br/> :computer: &nbsp; My technology stack: ReactJS, Node.js, React Native, Javascript & Typescript.
+ <br/> 💬  &nbsp; About me: I am communicative, self-taught, patient and resilient. 
+ <br/> :sunglasses: &nbsp; Hobbies / Passions : I'm in love with Music, SkateBoarding, Musical Production, Philosophy, Readings and Games.
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanielFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfelipedeveloper/)](https://www.linkedin.com/in/danielfelipedeveloper/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielfelipedeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfelipedeveloper@gmail.com)](mailto:danielfelipedeveloper@gmail.com)
 
