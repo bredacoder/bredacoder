@@ -14,11 +14,6 @@ I love programming, solve problems and create effective and creative solutions t
 | 
 [![Gmail Badge](https://img.shields.io/badge/-danielfelipedeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfelipedeveloper@gmail.com)](mailto:danielfelipedeveloper@gmail.com)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielFelipeDeveloper&show_icons=true&theme=midnight-purple"/>
-  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelipeDeveloper&layout=compact&hide=shell&theme=midnight-purple"/>
-</div>
-
 
 
 
