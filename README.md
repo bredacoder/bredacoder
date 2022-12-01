@@ -62,8 +62,8 @@ I'm a Software Engineer 💻, Music Producer 🎧, and Skateboarder 🛹!
     <img src="https://github-profile-trophy.vercel.app/?username=danielfelipedeveloper&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=danielfelipedeveloper&show_icons=true&hide_border=true&theme=midnight-purple" alt="Daniel Felipe GitHub Stats">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelipeDeveloper&layout=compact&hide=shell&theme=midnight-purple&hide_border=true"/>
+      <img src="https://github-readme-stats-topaz-two.vercel.app/api?username=danielfelipedeveloper&show_icons=true&hide_border=true&theme=midnight-purple" alt="Daniel Felipe GitHub Stats">
+      <img align="top" src="https://github-readme-stats-topaz-two.vercel.app/api/top-langs/?username=DanielFelipeDeveloper&layout=compact&hide=shell&theme=midnight-purple&hide_border=true"/>
     </div>    
 </div>
 
