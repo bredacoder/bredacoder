@@ -5,7 +5,7 @@ Hi there 👋, I'm Daniel Felipe
 </h3>
 
 <h4 align="center">
-I'm a Software Engineer 💻, Music Producer 🎧, and Skateboarder 🛹!
+I'm a Software Engineer 💻
 </h4> 
 
 ## 🚀 About Me
