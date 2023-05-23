@@ -13,7 +13,7 @@ I'm a Software Engineer 💻
 👨‍💻 I love programming, learn, share knowledge, solve problems and create effective and creative solutions that positively influence the lives of peoples!
 <br/>
 
- :rocket:  &nbsp; **Software Engineer at Semantix**
+ :rocket:  &nbsp; **Software Engineer**
  <br/> :purple_heart: &nbsp; I seek to constantly evolve! Javascript Focused.
  <br/> 💬  &nbsp; I am communicative, self-taught, patient and resilient. 
  <br/> :sunglasses: &nbsp; Hobbies/Passions: I'm in love with Music, Skateboarding, Musical Production, Philosophy, Readings and Games.
