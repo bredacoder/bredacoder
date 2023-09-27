@@ -68,22 +68,10 @@ I'm a Software Engineer 💻
 ### Testing
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=danielfelipedeveloper&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <div>
-      <img src="https://github-readme-stats-topaz-two.vercel.app/api?username=danielfelipedeveloper&show_icons=true&hide_border=true&theme=midnight-purple" alt="Daniel Felipe GitHub Stats">
-      <img align="top" src="https://github-readme-stats-topaz-two.vercel.app/api/top-langs/?username=DanielFelipeDeveloper&layout=compact&hide=shell&theme=midnight-purple&hide_border=true"/>
-    </div>    
-</div>
-
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danielfelipedeveloper/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/danielfelipedeveloper)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielfelipedeveloper@gmail.com)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bredacoder/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/bredacoder)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bredacoder@gmail.com)
 
 
 
