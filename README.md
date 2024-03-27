@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h3 align="center">
-Hi there 👋, I'm Daniel Felipe
+Hi there 👋, I'm Daniel Breda
 </h3>
 
 <h4 align="center">
